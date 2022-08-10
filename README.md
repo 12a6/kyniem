@@ -22,4 +22,6 @@
 1. Mở https://12a6.github.io/kyniem/index.html
 2. Chọn album cần xem
 
-Vui lòng liên hệ Vũ Anh Đoán (0974903684) để nhận giải đáp cho bất kig vấn đề nào liên quan tới dự án này!
+Vui lòng liên hệ Vũ Anh Đoán (0974903684) để nhận giải đáp cho bất kì vấn đề nào liên quan tới dự án này!
+
+Cảm ơn. 
