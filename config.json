@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "12A6 Photo Gallery",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
@@ -9,5 +9,5 @@
   "theme": "cards",
   "css": "./custom.css",
   "footer": "All images courtesy of their author from members of 12A6 Phạm Văn Nghị school 1999~2002",
-  "usage-stats": false
+  "usage-stats": true
 }
